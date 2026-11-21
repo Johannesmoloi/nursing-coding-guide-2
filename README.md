@@ -1,3 +1,5 @@
+![Nursing Coding Guide](nursing-cover.png)
+
 # 🩺 Nursing Coding Guide 2 - Lab & Investigation Codes
 
 Guide for nurses to code Lab & Investigation data using **LOINC** and **SNOMED CT**.
