@@ -19,10 +19,10 @@ Guide for nurses to code Lab & Investigation data using **LOINC** and **SNOMED C
 - **SNOMED CT** = Code for the FINDING / PROCEDURE. Example: Chest X-Ray = `399208008`
 
 ## Categories Covered
-- ✅ Blood Tests - FBC, Hb, Glucose, HIV, U&E
-- ✅ Urine Tests - Protein, Glucose, Pregnancy, Microscopy
-- ✅ X-Ray - Chest, Abdomen, Limb Fracture
-- ✅ ECG - 12 Lead, Heart Rate
+-  Blood Tests - FBC, Hb, Glucose, HIV, U&E
+-  Urine Tests - Protein, Glucose, Pregnancy, Microscopy
+-  X-Ray - Chest, Abdomen, Limb Fracture
+-  ECG - 12 Lead, Heart Rate
 
 ## How to Run
 
