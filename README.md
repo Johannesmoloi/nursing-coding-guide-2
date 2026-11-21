@@ -20,7 +20,7 @@ A simple Python guide to help nurses code lab tests correctly using internationa
 | ECG | 11524-6 | 29303009 |
 | Blood Pressure | 85354-9 | 75367002 |
 
-## 🚀 How to Run
+## How to Run
 ```bash
 python lab_codes.py
 python database.py
