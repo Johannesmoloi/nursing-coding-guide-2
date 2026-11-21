@@ -1,4 +1,4 @@
-![Nursing Coding Guide](nursing-cover.png)
+![Nursing Coding Guide](IMG-20261026-WA7079.jpg)
 
 # 🩺 Nursing Coding Guide 2 - Lab & Investigation Codes
 
